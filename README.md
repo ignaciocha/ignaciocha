@@ -29,8 +29,13 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> 
 </div>
 <br>
+<div>
+<p align="left">  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skthdus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0dain&layout=compact&langs_count=8&theme=algolia"/></p>
+</div>
 <div>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciocha"/>
 </div>
