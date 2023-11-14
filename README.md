@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Waving)
+
 <div>
 	<h3>📚 Tech Stack</h3>
 	<p>✨ Platforms & Languages</p>
